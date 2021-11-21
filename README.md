@@ -1,7 +1,7 @@
 # Panaderia-Basico
 Panaderia, ABM Y MAS
 
-DOWNLOADS; ZIP AND RAR
+DOWNLOADS; ZIP FORMAT OR RAR
 
 
 JS , PHP
